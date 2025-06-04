@@ -2,7 +2,8 @@ package com.example.videostreaming;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-// test commit 
+
+// this is just a test of commit and conflict
 @SpringBootApplication
 public class VideoStreamingApiApplication {
 
