@@ -7,7 +7,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-// just for testing for commit again committing in main
+// just for testing for commit
 @RestController
 @RequestMapping("/api/videos")
 @RequiredArgsConstructor
