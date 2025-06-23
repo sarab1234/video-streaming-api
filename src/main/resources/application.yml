@@ -1,4 +1,3 @@
-# this is specific to feature branch 
 server:
   port: 8080
 
